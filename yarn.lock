@@ -60,17 +60,13 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node@*", "@types/node@^4.0.30", "@types/node@^4.2.3":
-  version "4.2.8"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-4.2.8.tgz#26fd8fbc5b5ec7822614d950e237956ee92b88cd"
-
-"@types/node@6.0.*":
-  version "6.0.73"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.73.tgz#85dc4bb6f125377c75ddd2519a1eeb63f0a4ed70"
-
-"@types/node@^6.0.0", "@types/node@^6.0.41", "@types/node@^6.0.77":
+"@types/node@*", "@types/node@6.0.*", "@types/node@^6.0.0", "@types/node@^6.0.41", "@types/node@^6.0.77":
   version "6.0.77"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-6.0.77.tgz#3e4d569a427f17085e1ee4ecd3c31befb56af7b5"
+
+"@types/node@^4.0.30", "@types/node@^4.2.3":
+  version "4.2.8"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-4.2.8.tgz#26fd8fbc5b5ec7822614d950e237956ee92b88cd"
 
 "@types/parse5@^0.0.31":
   version "0.0.31"
@@ -1231,13 +1227,13 @@ encodeurl@~1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-1.0.1.tgz#79e3d58655346909fe6f0f45a5de68103b294d20"
 
-end-of-stream@1.0.0, end-of-stream@^1.0.0:
+end-of-stream@1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/end-of-stream/-/end-of-stream-1.0.0.tgz#d4596e702734a93e40e9af864319eabd99ff2f0e"
   dependencies:
     once "~1.3.0"
 
-end-of-stream@^1.1.0:
+end-of-stream@^1.0.0, end-of-stream@^1.1.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/end-of-stream/-/end-of-stream-1.4.0.tgz#7a90d833efda6cfa6eac0f4949dbb0fad3a63206"
   dependencies:

@@ -1,60 +1,13 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
+      "logoUrl" : "../images/logos/tampa.svg",
+      "name" : "Tampa",
+      "url" : "",
       "width" : 170
     } ],
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    }, {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    } ],
-    "title" : "General Partner"
-  } ],
+    "title" : ""
+  }],
   "schedule" : [ {
     "date" : "2016-09-09",
     "dateReadable" : "September 9",

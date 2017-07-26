@@ -44,18 +44,6 @@
       "permalink": "/"
     },
     {
-      "route": "blog",
-      "permalink": "/blog/"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/"
-    },
-    {
-      "route": "speakers",
-      "permalink": "/speakers/"
-    },
-    {
       "route": "team",
       "permalink": "/team/"
     }
@@ -63,23 +51,18 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "devfestne",
+      "url": "https://twitter.com/devfestne"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "devfestne",
+      "url": "https://plus.google.com/+DevfestNEBR"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "devfestne",
+      "url": "https://pt-br.facebook.com/devfestne/"
     }
   ],
   "location": {
@@ -88,13 +71,13 @@
     "address": "36 Shchyretska St, Lviv, Ukraine",
     "link": "https://www.facebook.com/expopivdennij",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -12.938628,
+      "longitude": -38.386348,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": -12.938628,
+      "longitude": -38.386348
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
@@ -116,14 +99,14 @@
     "home": {
       "title": "Home",
       "headerSettings": {
-        "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
+        "backgroundColor": "#1166e8",
+        "backgroundImage": "/images/backgrounds/ssa_farol.png",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
-          "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "title": "",
+          "youtubeId": "",
+          "text": ""
         },
         "hideLogo": true,
         "minHeight": "360px"
@@ -154,7 +137,7 @@
       }
     },
     "team": {
-      "title": "Team",
+      "title": "Organizadores",
       "headerSettings": {
         "backgroundColor": "#009688",
         "fontColor": "#fff",
@@ -162,7 +145,7 @@
       }
     },
     "cod": {
-      "title": "Cod of Conduct",
+      "title": "Código de Conduta",
       "headerSettings": {
         "backgroundColor": "#673ab7",
         "fontColor": "#fff",
