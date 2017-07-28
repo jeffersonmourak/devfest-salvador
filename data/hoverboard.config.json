@@ -1,28 +1,13 @@
 {
-  "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
-  "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
-  },
+  "url": "https://devfestne.com.br/",
   "organizer": {
     "name": "GDG Salvador",
     "twitter": "GDGSSA"
   },
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "dfne17",
     "themeColor": "#F57C00",
     "backgroundColor": "#F57C00"
-  },
-  "firebase": {
-    "name": "hoverboard-experimental",
-    "domain": "hoverboard-experimental.firebaseapp.com",
-    "database": "https://hoverboard-experimental.firebaseio.com",
-    "api": "AIzaSyALDa2D7CMhK_wt2VkET1MaJuQXYVUJd2I",
-    "userSessionsPath": "/userSessions",
-    "ratingsPath": "/ratings",
-    "indexedDbSession": "hoverboard"
   },
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
@@ -32,11 +17,11 @@
     "locale": "en-US",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
+  "hashtag": "dfne17",
+  "disqusShortName": "dfne17",
   "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "partnershipProposition": "",
+  "videosSessionsUrl": "https://www.youtube.com/",
   "enableSessionsRating": true,
   "navigation": [
     {
@@ -67,9 +52,9 @@
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "SENAI CIMATEC",
+    "address": "Avenida Orlando Gomes, 1845 Salvador, Bahia, Brazil, BA 41650-010",
+    "link": "https://www.facebook.com/cimatecoficial/",
     "pointer": {
       "latitude": -12.938628,
       "longitude": -38.386348,
@@ -87,12 +72,12 @@
     ]
   },
   "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "albumUrl": "https://plus.google.com/events/gallery/",
     "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
+      "big": "/images/backgrounds/",
       "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
+        "/images/backgrounds/",
+        "/images/backgrounds/"
       ]
     }
   },
