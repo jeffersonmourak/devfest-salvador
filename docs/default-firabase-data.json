@@ -1,7 +1,7 @@
 {
   "partners" : [ {
     "logos" : [ {
-      "logoUrl" : "../images/logos/tampa.svg",
+      "logoUrl" : "/images/logos/tampa.svg",
       "name" : "Tampa",
       "url" : "",
       "width" : 170
