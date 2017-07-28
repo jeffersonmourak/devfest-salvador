@@ -8,7 +8,7 @@
 [Project Zeppelin](https://github.com/gdg-x/zeppelin) and more optimized
 version - [Project Zeppelin-Grunt](https://github.com/gdg-x/zeppelin-grunt).
 
-> Template is brought by [Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy)
+> Template is brought by [A](https://plus.google.com/+OlehZasadnyy)
 from [GDG Lviv](http://lviv.gdg.org.ua/).
 
 > *Do you :heart: it?* Show your support - please, :star: the project.
@@ -131,7 +131,7 @@ pull request, so we can include you in this list.
 
 Project Hoverboard is still under development, and it is open for contributions.
 Feel free to send PR. If you have any questions, feel free to contact
-[Oleh Zasadnyy](https://plus.google.com/+OlehZasadnyy).
+[A](https://plus.google.com/+OlehZasadnyy).
 
 ##### General workflow
 1. Fork it
@@ -148,7 +148,7 @@ Feel free to send PR. If you have any questions, feel free to contact
 ### Contributors :sparkles:
 See [list of contributors](https://github.com/gdg-x/hoverboard/graphs/contributors).
 
-__Maintainer:__ [Oleh Zasadnyy](https://github.com/ozasadnyy) and [Sophie Huts](https://github.com/sophieH29).
+__Maintainer:__ [A](https://github.com/ozasadnyy) and [Sophie Huts](https://github.com/sophieH29).
 
 
 ###### The GDG App, GDG[x] are not endorsed and/or supported by Google, the corporation.

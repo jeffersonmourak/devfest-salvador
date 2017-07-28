@@ -1242,56 +1242,32 @@
   } ],
   "team" : [ {
     "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
+      "name" : "Marcus Silva",
+      "photoUrl" : "/images/people/marcus.jpeg",
+      "socials" : [  {
         "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
+        "link" : "https://twitter.com/mvfsillva",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
       } ],
-      "title" : "Website and sponsors"
+      "title" : ""
     }, {
-      "name" : "Sofiya Huts",
-      "photoUrl" : "/images/people/sofiya_huts.jpg",
+      "name" : "Jader Gomes",
+      "photoUrl" : "/images/people/jader.jpeg",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
         "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
+        "link" : "https://twitter.com/jjaderg",
         "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Speakers"
+      }],
+      "title" : ""
+    }, {
+      "name" : "Ramon Mota",
+      "photoUrl" : "/images/people/ramon.jpg",
+      "socials" : [{
+        "icon" : "twitter",
+        "link" : "https://twitter.com/ramonmluz",
+        "name" : "Twitter"
+      }],
+      "title" : ""
     }, {
       "name" : "Marta Maxymiak",
       "photoUrl" : "/images/people/marta_maxymiak.jpg",
@@ -1371,40 +1347,7 @@
       "title" : "Social and media"
     } ],
     "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
-  } ],
+  }],
   "tickets" : {
     "elements" : [ {
       "currency" : "₴",
