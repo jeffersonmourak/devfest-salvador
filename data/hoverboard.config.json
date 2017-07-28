@@ -7,8 +7,8 @@
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Salvador",
+    "twitter": "GDGSSA"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -80,9 +80,10 @@
       "longitude": -38.386348
     },
     "images": [
-      "/images/backgrounds/location_1.jpg",
-      "/images/backgrounds/location_2.jpg",
-      "/images/backgrounds/location_3.jpg"
+      "/images/backgrounds/location_1.png",
+      "/images/backgrounds/location_2.png",
+      "/images/backgrounds/location_3.png",
+      "/images/backgrounds/location_4.jpg"
     ]
   },
   "gallery": {

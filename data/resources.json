@@ -32,7 +32,7 @@
   "locationDescription": "É o lugar ideal para eventos de diversas magnitudes e naturezas. O espaço é completo e estruturado para receber congressos, convenções, entre outros.",
   "locationAddress": "Av. Orlando Gomes, 1845 - Piatã",
   "organizerTitle": "Organizadores",
-  "aboutOrganizers": "<a href='http://gdgssa.github.io/' target='_blank'>GDG Salvador</a> com o apoio dos GDG's Aracajú, Recife, Fortaleza, Maceió.",
+  "aboutOrganizers": "<a href='http://gdgssa.github.io/' target='_blank'>GDG Salvador</a> com o apoio dos GDG's Aracajú, Recife, Fortaleza.",
   "openTeamPage": "Open team page",
   "whatIsGdg": "O QUE É GDG?",
   "aboutGdg": "Google Developers Group (GDG) - É uma comunidade global de pessoas interessadas em aprender, utilizar e promover as tecnologias oferecidas pelo Google.",
@@ -113,8 +113,8 @@
   "contactBlock": {
     "links": [
       {
-        "text": "devfest@google.com",
-        "url": "mailto:devfest@google.com"
+        "text": "contato@devfest.com.br",
+        "url": "mailto:contato@devfest.com.br"
       }
     ]
   },
