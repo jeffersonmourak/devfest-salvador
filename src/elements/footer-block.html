@@ -39,6 +39,7 @@
         @apply(--layout-vertical);
         padding-top: 0;
         padding-bottom: 0;
+        text-align: center;
       }
 
       .gdg-logo {
@@ -57,8 +58,10 @@
       }
 
       .footer-backtotop {
-        margin-right: -14px;
-        margin-bottom: 20px;
+        /* margin-right: -14px;
+        margin-bottom: 20px; */
+        margin: auto;
+        text-align: center;
       }
 
       .footer-content {
@@ -165,19 +168,19 @@
 
     <div class="container">
       <div class="footer-content">
-        <iron-image
+        <!-- <iron-image
           class="gdg-logo"
           src="/images/gdg-logo.svg"
           sizing="contain"
           alt="{$ organizer.name $}"
-        ></iron-image>
+        ></iron-image> -->
         <paper-button class="footer-backtotop" on-tap="scrollToTop" noink>
           {$ backToTop $}
           <iron-icon icon="icons:expand-less"></iron-icon>
         </paper-button>
       </div>
       <div class="footer-content footer-links-container">
-        <nav class="navigation">
+        <!-- <nav class="navigation">
           {% for block in footerBlocks %}
             <div class="link-block-wrapper">
               <div class="link-block-title">{$ block.title $}</div>
@@ -216,13 +219,13 @@
               name="{$ mailchimp.name $}"
             ></mailchimp-subscribe>
           </div>
-        </nav>
+        </nav> -->
       </div>
       <div class="footer-content footer-bottom">
         <!-- Please do NOT delete next block -->
-        <div class="copyright">
-          &copy; 2016 Based on <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Project
-          Hoverboard</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
+       <div class="copyright">
+          &copy; 2017 Baseado no <a href="https://github.com/gdg-x/hoverboard" target="_blank" rel="noopener noreferrer">Projeto
+          Hoverboard</a>. Design e criação por <a href="http://o.zasadnyy.com/" target="_blank" rel="noopener noreferrer">Oleh
           Zasadnyy</a> &middot;
           <a href="http://lviv.gdg.org.ua" target="_blank" rel="noopener noreferrer">GDG Lviv</a>
         </div>
@@ -235,7 +238,7 @@
           ></g:plusone>
         </div>
 
-        <paper-menu-button vertical-align="bottom" horizontal-align="left" share-menu>
+        <!-- <paper-menu-button vertical-align="bottom" horizontal-align="left" share-menu>
           <paper-icon-button icon="share" class="dropdown-trigger"></paper-icon-button>
           <div class="dropdown-content">
             <paper-icon-item on-tap="share" share="gplus">
@@ -255,7 +258,7 @@
               {$ copyLink $}
             </paper-icon-item>
           </div>
-        </paper-menu-button>
+        </paper-menu-button> -->
       </div>
     </div>
 

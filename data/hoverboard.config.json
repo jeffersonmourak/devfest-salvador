@@ -27,10 +27,6 @@
     {
       "route": "home",
       "permalink": "/"
-    },
-    {
-      "route": "team",
-      "permalink": "/team/"
     }
   ],
   "social": [
