@@ -4,7 +4,7 @@
     "logos": [
       {
         "name": "Google",
-        "url": "https://google.com",
+        "url": "//google.com",
         "logoUrl": "/images/logos/partners/google.svg",
         "width": 400,
         "height": 200
@@ -16,7 +16,7 @@
     "logos": [
       {
         "name": "Tampa",
-        "url": "loja.tampa.works",
+        "url": "//loja.tampa.works",
         "logoUrl": "/images/logos/partners/tampa.svg",
         "width": 300,
         "height": 150
